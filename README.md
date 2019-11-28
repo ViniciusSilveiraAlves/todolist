@@ -1,10 +1,20 @@
 # tasks_projetct
 
-A new Flutter application.
+Todo list built with Flutter saving datas in files inside the phone's sd card
 
-## Getting Started
+# Screenshot
 
 This project is a starting point for a Flutter application.
+
+## Task List
+<img src="https://github.com/ViniciusSilveiraAlves/todolist/blob/master/task_list.jpeg" width="350" height="600">
+
+## Drag to Delete
+<img src="https://github.com/ViniciusSilveiraAlves/todolist/blob/master/drag_to_delete.jpeg" width="350" height="600">
+
+## Undo
+
+<img src="https://github.com/ViniciusSilveiraAlves/todolist/blob/master/undo.jpeg" width="350" height="600">
 
 A few resources to get you started if this is your first Flutter project:
 
